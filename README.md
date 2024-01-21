@@ -10,7 +10,7 @@ We begin by importing necessary libraries and loading the dataset. The dataset c
 
 Exploring the Dataset
 ---------------------
- 
+
 To gain insights into the dataset, we start by examining the first and last five rows. This helps us understand the structure of the data, identify key features, and check for any anomalies or missing values.
 
 Following this, we delve into a statistical overview of the dataset, checking for the presence of null values and duplicates. The statistical summary provides key measures such as mean, standard deviation, minimum, maximum, and quartiles for each numeric column.
