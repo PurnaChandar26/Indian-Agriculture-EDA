@@ -1,7 +1,7 @@
 Indian Agriculture EDA
 ======================
 
-Welcome to the Indian Agriculture EDA (Exploratory Data Analysis) repository! In this notebook, we perform a comprehensive analysis of the Indian Agriculture dataset, focusing on various crops and their production metrics across different states and years.
+Welcome to the Indian Agriculture EDA (Exploratory Data Analysis) repository! In this notebook, we perform a comprehensive analysis of the Indian Agriculture dataset, focusing on various crops and their production metrics across different states and years. 
 
 Dataset Overview
 ----------------
