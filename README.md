@@ -3,7 +3,7 @@ Indian Agriculture EDA
 
 Welcome to the Indian Agriculture EDA (Exploratory Data Analysis) repository! In this notebook, we perform a comprehensive analysis of the Indian Agriculture dataset, focusing on various crops and their production metrics across different states and years. 
 
-Dataset Overview
+Dataset Overview 
 ----------------
   
 We begin by importing necessary libraries and loading the dataset. The dataset contains information on different agricultural aspects, such as crop areas, production quantities, and yields, for various states and years in India. The data spans from 1966 to 2017, encompassing 16,146 entries and 80 columns.
