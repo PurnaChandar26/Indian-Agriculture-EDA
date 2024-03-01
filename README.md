@@ -22,6 +22,8 @@ We conduct a detailed analysis of specific crops, focusing on production, area, 
 
 For each crop, we generate visualizations such as bar charts, line plots, and pie charts to highlight key patterns and insights. The analysis covers top-producing states, production areas, yearly trends, and yield distributions.
 
+![newplot](https://github.com/PurnaChandar26/Indian-Agriculture-EDA/assets/97793147/e6b7f991-c91d-4498-aa36-4823ff52584b)
+
 Conclusion
 ----------
 
